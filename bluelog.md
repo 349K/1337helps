@@ -1,0 +1,48 @@
+# bluelog command Help
+
+ This command seen on Linux kali 4.6.0-kali1-amd64 #1 SMP Debian 4.6.4-1kali1 (2016-07-21) x86_64 GNU/Linux. For further information please check [docs.kali.org](docs.kali.org) and have a nice day buddy ;) 
+
+~~~
+
+
+Bluelog (v1.1.2) by Tom Nardi "MS3FGX" (MS3FGX@gmail.com)
+----------------------------------------------------------------
+Bluelog is a Bluetooth site survey tool, designed to tell you how
+many discoverable devices there are in an area as quickly as possible.
+As the name implies, its primary function is to log discovered devices
+to file rather than to be used interactively. Bluelog could run on a
+system unattended for long periods of time to collect data.
+
+Bluelog also includes a mode called "Bluelog Live" which creates a
+webpage of the results that you can serve up with your HTTP daemon of
+choice. See the "README.LIVE" file for details.
+
+For more information, see: www.digifail.com
+
+Basic Options:
+	-i <interface>     Sets scanning device, default is "hci0"
+	-o <filename>      Sets output filename, default is "devices.log"
+	-v                 Verbose, prints discovered devices to the terminal
+	-q                 Quiet, turns off nonessential terminal outout
+	-d                 Enables daemon mode, Bluelog will run in background
+	-k                 Kill an already running Bluelog process
+	-l                 Start "Bluelog Live", default is disabled
+
+Logging Options:
+	-n                 Write device names to log, default is disabled
+	-m                 Write device manufacturer to log, default is disabled
+	-c                 Write device class to log, default is disabled
+	-f                 Use "friendly" device class, default is disabled
+	-t                 Write timestamps to log, default is disabled
+	-x                 Obfuscate discovered MACs, default is disabled
+	-e                 Encode discovered MACs with CRC32, default disabled
+	-b                 Enable BlueProPro log format, see README
+
+Advanced Options:
+	-r <retries>       Name resolution retries, default is 3
+	-a <minutes>       Amnesia, Bluelog will forget device after given time
+	-w <seconds>       Scanning window in seconds, see README
+	-s                 Syslog only mode, no log file. Default is disabled
+
+
+~~~
