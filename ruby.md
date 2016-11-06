@@ -1,0 +1,44 @@
+# ruby command Help
+ 
+ This command seen on Linux kali 4.6.0-kali1-amd64 #1 SMP Debian 4.6.4-1kali1 (2016-07-21) x86_64 GNU/Linux. For further information please check [docs.kali.org](docs.kali.org) and have a nice day buddy ;) 
+
+~~~
+
+Usage: ruby [switches] [--] [programfile] [arguments]
+  -0[octal]       specify record separator (\0, if no argument)
+  -a              autosplit mode with -n or -p (splits $_ into $F)
+  -c              check syntax only
+  -Cdirectory     cd to directory before executing your script
+  -d, --debug     set debugging flags (set $DEBUG to true)
+  -e 'command'    one line of script. Several -e's allowed. Omit [programfile]
+  -Eex[:in], --encoding=ex[:in]
+                  specify the default external and internal character encodings
+  -Fpattern       split() pattern for autosplit (-a)
+  -i[extension]   edit ARGV files in place (make backup if extension supplied)
+  -Idirectory     specify $LOAD_PATH directory (may be used more than once)
+  -l              enable line ending processing
+  -n              assume 'while gets(); ... end' loop around your script
+  -p              assume loop like -n but print line also like sed
+  -rlibrary       require the library before executing your script
+  -s              enable some switch parsing for switches after script name
+  -S              look for the script using PATH environment variable
+  -T[level=1]     turn on tainting checks
+  -v, --verbose   print version number, then turn on verbose mode
+  -w              turn warnings on for your script
+  -W[level=2]     set warning level; 0=silence, 1=medium, 2=verbose
+  -x[directory]   strip off text before #!ruby line and perhaps cd to directory
+  --copyright     print the copyright
+  --enable=feature[,...], --disable=feature[,...]
+                  enable or disable features
+  --external-encoding=encoding, --internal-encoding=encoding
+                  specify the default external or internal character encoding
+  --version       print the version
+  --help          show this message, -h for short message
+Features:
+  gems            rubygems (default: enabled)
+  did_you_mean    did_you_mean (default: enabled)
+  rubyopt         RUBYOPT environment variable (default: enabled)
+  frozen-string-literal
+                  freeze all string literals (default: disabled)
+
+~~~

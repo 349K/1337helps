@@ -1,0 +1,36 @@
+# createdb command Help
+ 
+ This command seen on Linux kali 4.6.0-kali1-amd64 #1 SMP Debian 4.6.4-1kali1 (2016-07-21) x86_64 GNU/Linux. For further information please check [docs.kali.org](docs.kali.org) and have a nice day buddy ;) 
+
+~~~
+
+createdb creates a PostgreSQL database.
+
+Usage:
+  createdb [OPTION]... [DBNAME] [DESCRIPTION]
+
+Options:
+  -D, --tablespace=TABLESPACE  default tablespace for the database
+  -e, --echo                   show the commands being sent to the server
+  -E, --encoding=ENCODING      encoding for the database
+  -l, --locale=LOCALE          locale settings for the database
+      --lc-collate=LOCALE      LC_COLLATE setting for the database
+      --lc-ctype=LOCALE        LC_CTYPE setting for the database
+  -O, --owner=OWNER            database user to own the new database
+  -T, --template=TEMPLATE      template database to copy
+  -V, --version                output version information, then exit
+  -?, --help                   show this help, then exit
+
+Connection options:
+  -h, --host=HOSTNAME          database server host or socket directory
+  -p, --port=PORT              database server port
+  -U, --username=USERNAME      user name to connect as
+  -w, --no-password            never prompt for password
+  -W, --password               force password prompt
+  --maintenance-db=DBNAME      alternate maintenance database
+
+By default, a database with the same name as the current user is created.
+
+Report bugs to <pgsql-bugs@postgresql.org>.
+
+~~~

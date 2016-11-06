@@ -1,0 +1,38 @@
+# innochecksum command Help
+ 
+ This command seen on Linux kali 4.6.0-kali1-amd64 #1 SMP Debian 4.6.4-1kali1 (2016-07-21) x86_64 GNU/Linux. For further information please check [docs.kali.org](docs.kali.org) and have a nice day buddy ;) 
+
+~~~
+
+InnoDB offline file checksum utility.
+innochecksum Ver 5.6.30, for debian-linux-gnu (x86_64)
+Copyright (c) 2000, 2016, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+InnoDB offline file checksum utility.
+Usage: innochecksum [-c] [-s <start page>] [-e <end page>] [-p <page>] [-v] [-d] <filename>
+  -?, --help          Displays this help and exits.
+  -I, --info          Synonym for --help.
+  -V, --version       Displays version information and exits.
+  -v, --verbose       Verbose (prints progress every 5 seconds).
+  -d, --debug         Debug mode (prints checksums for each page, implies
+                      verbose).
+  -c, --count         Print the count of pages in the file.
+  -s, --start-page=#  Start on this page number (0 based).
+  -e, --end-page=#    End at this page number (0 based).
+  -p, --page=#        Check only this page (0 based).
+
+Variables (--variable-name=value)
+and boolean options {FALSE|TRUE}  Value (after reading options)
+--------------------------------- ----------------------------------------
+verbose                           FALSE
+debug                             FALSE
+count                             FALSE
+start-page                        0
+end-page                          0
+page                              0
+
+~~~
