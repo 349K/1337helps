@@ -139,7 +139,9 @@
          <td>Can the current user perform anything as root</td>
       </tr>
       <tr>
-         <td><code>sudo -l 2&gt;/dev/null | grep -w 'nmap' | 'perl' | 'awk' | 'find' | 'bash' | 'sh' | 'man' | 'more' | 'less' | 'vi' | 'vim' | 'nc' | 'netcat' | 'python' | 'ruby' | 'lua' | 'irb' | 'xargs' -r ls -la 2&gt;/dev/null</code></td>
+         <td><code>sudo -l 2&gt;/dev/null | grep -w 'nmap|perl|awk|<br>
+         find|bash|sh|man|more|less|vi|vim|nc|netcat|python|ruby|lua<br>
+         |irb|xargs' -r ls -la 2&gt;/dev/null</code></td>
          <td>Can the current user run any ‘interesting’ binaries as root and if so also display the binary permissions etc.</td>
       </tr>
    </tbody>
