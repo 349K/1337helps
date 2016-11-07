@@ -1,8 +1,8 @@
 <p><b>Kernel, Operating System &amp; Device Information:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -49,10 +49,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Users &amp; Groups:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -116,10 +116,10 @@
 <p>&nbsp;</p>
 <p></p>
 <p><b>User &amp; Privilege Information:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -146,10 +146,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Environmental Information:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -184,10 +184,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Interesting Files:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -290,10 +290,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Service Information:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -324,10 +324,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Jobs/Tasks:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -350,10 +350,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Networking, Routing &amp; Communications:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -396,10 +396,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Programs Installed:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Result</b></th>
       </tr>
       <tr>
@@ -472,10 +472,10 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Common Shell Escape Sequences:</b></p>
-<table width="700px">
+<table width="100%">
    <tbody>
       <tr>
-         <th style="width:40%"><b>Command</b></th>
+         <th width="40%"><b>Command</b></th>
          <th><b>Program(s)</b></th>
       </tr>
       <tr>
