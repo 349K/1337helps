@@ -27,6 +27,8 @@ GNU Privacy Guard (GnuPG or GPG) is a free software replacement for Symantec's P
 + [Public key verification](#10-how-to-generate-a-short-list-of-numbers-that-you-can-use-via-an-alternative-method-to-verify-a-public-key--)
 + [Encryption](#11-how-to-encrypt-data--)
 + [Decryption](#12-how-to-decrypt-data--)
+
+
 ------------------------------------------------------------------------------------------------
 
 #### 1. How to create a key-pair? [ ](#1)
