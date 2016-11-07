@@ -4,7 +4,7 @@
 
 
 <p><b>Kernel, Operating System &amp; Device Information:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -55,7 +55,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Users &amp; Groups:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -123,7 +123,7 @@
 <p>&nbsp;</p>
 <p></p>
 <p><b>User &amp; Privilege Information:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -154,7 +154,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Environmental Information:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -193,7 +193,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Interesting Files:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -300,7 +300,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Service Information:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -335,7 +335,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Jobs/Tasks:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -362,7 +362,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Networking, Routing &amp; Communications:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -409,7 +409,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Programs Installed:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
@@ -484,7 +484,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Common Shell Escape Sequences:</b></p>
-<table cellspacing="0" cellpadding="10">
+<table width="700px" cellspacing="0" cellpadding="10">
 
 <tbody>
 <tr>
