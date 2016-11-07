@@ -5,9 +5,7 @@
 
 <p><span style="font-family: Arial, sans-serif;"><b>Kernel, Operating System &amp; Device Information:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -58,9 +56,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Users &amp; Groups:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -128,9 +124,7 @@
 <p><span id="more-1623"></span></p>
 <p><span style="font-family: Arial, sans-serif;"><b>User &amp; Privilege Information:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -161,9 +155,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Environmental Information:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -202,9 +194,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Interesting Files:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -311,9 +301,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Service Information:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -348,9 +336,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Jobs/Tasks:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -377,9 +363,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Networking, Routing &amp; Communications:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -426,9 +410,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Programs Installed:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
@@ -503,9 +485,7 @@
 <p>&nbsp;</p>
 <p><span style="font-family: Arial, sans-serif;"><b>Common Shell Escape Sequences:</b></span></p>
 <table border="1" width="100%" cellspacing="0" cellpadding="10">
-<colgroup>
-<col width="117">
-<col width="139"> </colgroup>
+
 <tbody>
 <tr valign="TOP">
 <td width="46%"><span style="font-family: Arial, sans-serif;"><b>Command</b></span></td>
