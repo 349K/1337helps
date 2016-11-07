@@ -8,6 +8,10 @@ In no event will we be liable for any loss or damage including without limitatio
 <table>
    <tbody>
       <tr>
+        <th>Target</th>
+        <th>Bullet</th>
+      </tr>
+      <tr>
          <td>Version</td>
          <td>SELECT @@version</td>
       </tr>
@@ -160,9 +164,16 @@ In no event will we be liable for any loss or damage including without limitatio
             mysql
          </td>
       </tr>
-   </tbody>
-</table><table border="1">
+   </tbody>   
+</table>
+
+
+<table>
    <tbody>
+   <tr>
+      <th>Target</th>
+      <th>Bullet</th>
+   </tr>
       <tr>
          <td>Version</td>
          <td>SELECT @@version</td>
