@@ -1,12 +1,3 @@
-<style>
-table:nth-of-type(1) {
-    display:table;
-    width:100%;
-}
-table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
-}
-</style>
 
 <div class="entry-content">
 						<!-- AddThis Sharing Buttons above -->
@@ -18,8 +9,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>uname -a</code></td>
@@ -69,8 +60,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>cat /etc/passwd</code></td>
@@ -137,8 +128,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>whoami</code></td>
@@ -168,8 +159,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>env</code></td>
@@ -207,8 +198,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>find / -perm -4000 -type f 2&gt;/dev/null</code></td>
@@ -314,8 +305,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>ps aux | grep root</code></td>
@@ -349,8 +340,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>crontab -l -u %username%</code></td>
@@ -376,8 +367,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>/sbin/ifconfig -a</code></td>
@@ -423,8 +414,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Result</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Result</b></th>
 </tr>
 <tr>
 <td><code>dpkg -l</code></td>
@@ -498,8 +489,8 @@ table:nth-of-type(1) th:nth-of-type(2) {
 
 <tbody>
 <tr>
-<td><b>Command</b></td>
-<td><b>Program(s)</b></td>
+<th style="width:40%"><b>Command</b></th>
+<th><b>Program(s)</b></th>
 </tr>
 <tr>
 <td><code>:!bash</code></td>
