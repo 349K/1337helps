@@ -1,9 +1,3 @@
-
-<div class="entry-content">
-						<!-- AddThis Sharing Buttons above -->
-
-
-
 <p><b>Kernel, Operating System &amp; Device Information:</b></p>
 <table>
 
@@ -522,13 +516,3 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>A special thanks to the following useful resources:</p>
-<ul>
-<li><a href="http://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation.html" target="_blank">g0tm1lk</a></li>
-<li><a href="http://pen-testing.sans.org/resources/downloads" target="_blank">SANS&nbsp;Pentesting Resources</a></li>
-</ul>
-<p>&nbsp;</p>
-
-<div class="twitter-share"><iframe id="twitter-widget-2" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.39f7ee9fffbd122b7a37a520dbdaebc6.en-gb.html#dnt=false&amp;id=twitter-widget-2&amp;lang=en-gb&amp;original_referer=https%3A%2F%2Fwww.rebootuser.com%2F%3Fp%3D1623&amp;size=m&amp;text=%40Rebootuser%20%7C%20Local%20Linux%20Enumeration%20%26%20Privilege%20Escalation%20Cheatsheet&amp;time=1477356875751&amp;type=share&amp;url=https%3A%2F%2Fwww.rebootuser.com%2F%3Fp%3D1623&amp;via=rebootuser" style="position: static; visibility: visible; width: 61px; height: 20px;" data-url="https://www.rebootuser.com/?p=1623"></iframe></div>
-<!-- AddThis Sharing Buttons below -->					</div>
