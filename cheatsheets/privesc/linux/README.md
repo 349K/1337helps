@@ -119,8 +119,8 @@
 <table width="100%">
    <tbody>
       <tr>
-         <th width="100px"><b>Command</b></th>
-         <th><b>Result</b></th>
+         <th width="40%"><b>Command</b></th>
+         <th width="60%"><b>Result</b></th>
       </tr>
       <tr>
          <td><code>whoami</code></td>
