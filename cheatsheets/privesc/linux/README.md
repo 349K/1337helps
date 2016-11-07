@@ -1,10 +1,20 @@
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
+
 <div class="entry-content">
 						<!-- AddThis Sharing Buttons above -->
 
 
 
 <p><b>Kernel, Operating System &amp; Device Information:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -55,7 +65,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Users &amp; Groups:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -123,7 +133,7 @@
 <p>&nbsp;</p>
 <p></p>
 <p><b>User &amp; Privilege Information:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -154,7 +164,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Environmental Information:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -193,7 +203,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Interesting Files:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -300,7 +310,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Service Information:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -335,7 +345,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Jobs/Tasks:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -362,7 +372,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Networking, Routing &amp; Communications:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -409,7 +419,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Programs Installed:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
@@ -484,7 +494,7 @@
 </table>
 <p>&nbsp;</p>
 <p><b>Common Shell Escape Sequences:</b></p>
-<table width="700px" cellspacing="0" cellpadding="10">
+<table>
 
 <tbody>
 <tr>
