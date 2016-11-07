@@ -1,5 +1,5 @@
 # Reverse Shell Cheat Sheet
-`These information may be used for legal purposes only.  Users take full responsibility for any actions performed using what they learned.  The author accepts no liability for damage caused.  If these terms are not acceptable to you, then do not use any of it.`
+These information may be used for legal purposes only.  Users take full responsibility for any actions performed using what they learned.  The author accepts no liability for damage caused.  If these terms are not acceptable to you, then do not use any of it.
 
 ```The examples shown are tailored to Unix-like systems.  Some of the examples below should also work on Windows if you use substitute “/bin/sh -i” with “cmd.exe”.```
 
